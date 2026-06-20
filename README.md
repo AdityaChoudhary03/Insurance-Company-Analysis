@@ -175,7 +175,7 @@ Claim statuses are distributed across:
 ---
 
 # Project visual explore
-
+ https://github.com/AdityaChoudhary03/Insurance-Company-Analysis/blob/main/Screenshot%202026-06-20%20171136.png
 
 
 ### GitHub Repository Tags
