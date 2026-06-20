@@ -138,8 +138,9 @@ Claim statuses are distributed across:
 
 ### Data Visualization
 
-* Microsoft Power BI
-* SQL
+* Microsoft Power BI ( visulization)
+* SQL ( Data Cleaning and Preparing)
+* Github ( Documentation)
 
 ### Data Preparation
 
@@ -174,7 +175,7 @@ Claim statuses are distributed across:
 
 ---
 
-# Project visual explore
+# Dashboard
  https://github.com/AdityaChoudhary03/Insurance-Company-Analysis/blob/main/Screenshot%202026-06-20%20171136.png
 
 
